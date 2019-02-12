@@ -27,4 +27,4 @@ public class Validaciones
 			return true;
 			else return false;
 	}
-}
+} 
